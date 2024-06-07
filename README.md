@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Azrul-Chan
 - 👀 I’m interested in learning new things that related to computer 
 - 🌱 I’m currently learning ui/ux design but im interested in learning to code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Im a newbie on programming
 
 <!---
